@@ -5,15 +5,15 @@ A lightweight Flutter package that wraps the **Persona** KYC SDK and provides ut
 
 ## Screenshots
 
-![Screenshot 1](/Users/kudusrufai/Desktop/codes/mobile/flutter_bridge_persona_sdk/screenshots/screen_shot_1.png)
+![Screenshot 1](screenshots/screen_shot_1.png)
 
-![Screenshot 2](/Users/kudusrufai/Desktop/codes/mobile/flutter_bridge_persona_sdk/screenshots/screen_shot_2.png)
+![Screenshot 2](screenshots/screen_shot_2.png)
 
-![Screenshot 3](/Users/kudusrufai/Desktop/codes/mobile/flutter_bridge_persona_sdk/screenshots/screen_shot_3.png)
+![Screenshot 3](screenshots/screen_shot_3.png)
 
-![Screenshot 4](/Users/kudusrufai/Desktop/codes/mobile/flutter_bridge_persona_sdk/screenshots/screen_shot_4.png)
+![Screenshot 4](screenshots/screen_shot_4.png)
 
-![Screenshot 5](/Users/kudusrufai/Desktop/codes/mobile/flutter_bridge_persona_sdk/screenshots/screen_shot_5.png)
+![Screenshot 5](screenshots/screen_shot_5.png)
 
 
 ## Features
@@ -34,7 +34,7 @@ Run `flutter pub get`.
 ## Usage
 ```dart
 import 'package:flutter/material.dart';
-import 'package:flutter_bridge_persona_sdk/utils/bridge_kyc_widget.dart';
+import 'package:flutter_bridge_persona_sdk/widgets/bridge_kyc_widget.dart';
 
 void main() => runApp(const MyApp());
 
@@ -68,4 +68,6 @@ class MyApp extends StatelessWidget {
 3. Write tests (`flutter test`).
 4. Submit a pull request.
 
-Made with Love by [Kudusrufai](https://github.com/Raks-Javac)# Persona-Kyc-SDK-Bridge-Stripe-Flutter-Implementation
+---
+
+Made with ❤️ by [Raks-Javac](https://github.com/Raks-Javac)
