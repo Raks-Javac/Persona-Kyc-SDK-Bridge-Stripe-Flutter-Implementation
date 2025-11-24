@@ -5,15 +5,16 @@ A lightweight Flutter package that wraps the **Persona** KYC SDK and provides ut
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screen_shot_1.png)
+<p align="center">
+  <img src="screenshots/screen_shot_1.png" width="200" />
+  <img src="screenshots/screen_shot_2.png" width="200" />
+  <img src="screenshots/screen_shot_3.png" width="200" />
+</p>
+<p align="center">
+  <img src="screenshots/screen_shot_4.png" width="200" />
+  <img src="screenshots/screen_shot_5.png" width="200" />
+</p>
 
-![Screenshot 2](screenshots/screen_shot_2.png)
-
-![Screenshot 3](screenshots/screen_shot_3.png)
-
-![Screenshot 4](screenshots/screen_shot_4.png)
-
-![Screenshot 5](screenshots/screen_shot_5.png)
 
 
 ## Features
