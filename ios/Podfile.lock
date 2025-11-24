@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - persona_flutter (0.0.1):
+    - Flutter
+    - PersonaInquirySDK2 (= 2.29.2)
+  - PersonaInquirySDK2 (2.29.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - persona_flutter (from `.symlinks/plugins/persona_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - PersonaInquirySDK2
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  persona_flutter:
+    :path: ".symlinks/plugins/persona_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  persona_flutter: dbbd5d6a20cac6c24fef1175815debd7c6107276
+  PersonaInquirySDK2: c90071c07374df6a4908426e0f8a5188add2422c
+
+PODFILE CHECKSUM: 3c63482e143d1b91d2d2560aee9fb04ecc74ac7e
+
+COCOAPODS: 1.16.2
